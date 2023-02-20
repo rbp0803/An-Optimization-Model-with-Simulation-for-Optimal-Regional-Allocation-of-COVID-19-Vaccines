@@ -13,6 +13,7 @@ The datas presented here came from the following sources:
 <li> https://doh.gov.ph/covid19tracker </li>
 <li> https://www.who.int/philippines/emergencies/covid-19-response-in-the-philippines/situation-reports </li>
 <li> https://news.abs-cbn.com/spotlight/multimedia/infographic/03/23/21/philippines-covid-19-vaccine-tracker </li>
+<li> https://www.foi.gov.ph/requests/aglzfmVmb2ktcGhyHQsSB0NvbnRlbnQiEERPSC00NDQzMzY3MjE1ODAM?fbclid </li>
 <li> https://psa.gov.ph/content/updated-population-projections-based-results-2015-popcen </li>
 </ul>
 
