@@ -1,4 +1,4 @@
-# Optimal-Allocation-of-Vaccine-Brand-in-Different-Regions-in-the-Philippines
+# An Optimization Model with Simulation for Optimal Regional Allocation of COVID-19 Vaccines
 Uploaded here are the supplementary materials presented in the paper Optimal Allocation of Vaccine Brand in Different Regions in the Philippines
 
 ## Execution Instructions
